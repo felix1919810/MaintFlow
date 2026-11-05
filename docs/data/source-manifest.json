@@ -36,14 +36,14 @@
       "repository_path": "src/project.json",
       "size": 686,
       "sha256": "05b30721ffaa55aeec951f4ee05f28341bbcdde7b2fae648628bc215056f72f1",
-      "repository_sha256": "05b30721ffaa55aeec951f4ee05f28341bbcdde7b2fae648628bc215056f72f1"
+      "repository_sha256": "627f43f8ae65ed7e1bb1d0051c01fc30ac9b1ebcd5210f6bc3c1182a5a264795"
     },
     {
       "archive_path": "package.json",
       "repository_path": "src/package.json",
       "size": 248,
       "sha256": "c793a981916d52dda2aa59b834294208831d32381d1f16b64cfb4a16cfba333f",
-      "repository_sha256": "c793a981916d52dda2aa59b834294208831d32381d1f16b64cfb4a16cfba333f"
+      "repository_sha256": "ef746f5f5b55ad07b086253da8cb4260f24de9d39107e7e7c0d478e0d5b44ff8"
     },
     {
       "archive_path": "server.mjs",
@@ -67,5 +67,5 @@
       "repository_sha256": "22b6ed737867b415366482aeb89f37f8d5c8dc3bd31b40e3a00f67005a03f090"
     }
   ],
-  "normalization": "Repository text uses LF; sha256 is original archive bytes, repository_sha256 is normalized repository text."
+  "normalization": "Repository text uses LF; GitHub adds a terminal newline to JSON files. sha256 is original archive bytes; repository_sha256 is repository text."
 }
