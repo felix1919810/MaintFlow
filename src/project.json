@@ -1,0 +1,20 @@
+{
+  "pipeline": {
+    "projectId": "manufacturing-maintenance",
+    "attemptId": "03d4de5c-9be8-4700-aed9-292dfa8c53d5",
+    "requirements": [],
+    "solution": null,
+    "build": null,
+    "note": "本次方案的实现约定；现有Demo仍需逐项验证覆盖，绑定不代表功能或验收已经完成。"
+  },
+  "projectId": "manufacturing-maintenance",
+  "attemptId": "03d4de5c-9be8-4700-aed9-292dfa8c53d5",
+  "modules": [
+    {
+      "id": "manufacturing-maintenance",
+      "title": "设备点检与维修协同",
+      "company": "海岳机电"
+    }
+  ],
+  "trainingHref": "/group-training?project=manufacturing-maintenance&attemptId=03d4de5c-9be8-4700-aed9-292dfa8c53d5"
+}
