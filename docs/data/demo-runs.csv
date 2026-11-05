@@ -1,0 +1,7 @@
+run_id,timestamp_utc,scenario,status,mode,real_customer_acceptance
+4048faac-9ffb-4b04-9802-471af8cd4b74,2026-11-05T06:28:26.450Z,normal,review,local-rules,false
+9f0556b5-6cbc-4987-9311-a928da09cc59,2026-11-05T06:34:54.472Z,missing,needs-info,local-rules,false
+a40338c9-b8ce-4d78-a788-4cdc7465c9c6,2026-11-05T06:35:05.042Z,conflict,manual,local-rules,false
+b0a19065-ce6f-484a-8f57-6e4919174684,2026-11-05T06:35:16.213Z,unauthorized,blocked,local-rules,false
+610bee9e-99e7-4a6c-ad7a-74d21d9c2eec,2026-11-05T06:35:35.512Z,outage,degraded,local-rules,false
+38e69628-1c04-4ef8-8bbd-64d7a27b426f,2026-11-05T06:35:48.525Z,out-of-scope,blocked,local-rules,false
