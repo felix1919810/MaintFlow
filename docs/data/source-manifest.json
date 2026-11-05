@@ -1,0 +1,71 @@
+{
+  "source": "user-upload/manufacturing-maintenance-agent-source.zip",
+  "date": "2026-11-05",
+  "runtime_matches_separate_upload": true,
+  "files": [
+    {
+      "archive_path": "index.html",
+      "repository_path": "src/index.html",
+      "size": 406,
+      "sha256": "ce60dd0edab1a2c3bae5989451c27dd8098580a02e1785d051c8e35d4d4e2273",
+      "repository_sha256": "ce60dd0edab1a2c3bae5989451c27dd8098580a02e1785d051c8e35d4d4e2273"
+    },
+    {
+      "archive_path": "app.js",
+      "repository_path": "src/app.js",
+      "size": 13058,
+      "sha256": "dd2f3673b5137baeb8c90d14ca9f7208d2af2d7c01ab9b819a6d6529f6b79649",
+      "repository_sha256": "936bf1214ed18ee271542f63f5eef2df8a434c2cd4b3526010b179cc9f860008"
+    },
+    {
+      "archive_path": "runtime.js",
+      "repository_path": "src/runtime.js",
+      "size": 18499,
+      "sha256": "5ff34bea90b9785d3b30c903d71aa94d18a629d7b4d2e4adb507c3c0feff44d5",
+      "repository_sha256": "84bbc18a22a841569c6881143e5887968693997cba246fe9bb0c71a081c44f19"
+    },
+    {
+      "archive_path": "style.css",
+      "repository_path": "src/style.css",
+      "size": 9773,
+      "sha256": "403e2dd805829838302e6346a66569fde2ecf510a0aa33af657c1dcff7a3998b",
+      "repository_sha256": "fcb18faa9663fa2d33272b4d244baacd1d5db7293de27ca7881aded1562385dd"
+    },
+    {
+      "archive_path": "project.json",
+      "repository_path": "src/project.json",
+      "size": 686,
+      "sha256": "05b30721ffaa55aeec951f4ee05f28341bbcdde7b2fae648628bc215056f72f1",
+      "repository_sha256": "05b30721ffaa55aeec951f4ee05f28341bbcdde7b2fae648628bc215056f72f1"
+    },
+    {
+      "archive_path": "package.json",
+      "repository_path": "src/package.json",
+      "size": 248,
+      "sha256": "c793a981916d52dda2aa59b834294208831d32381d1f16b64cfb4a16cfba333f",
+      "repository_sha256": "c793a981916d52dda2aa59b834294208831d32381d1f16b64cfb4a16cfba333f"
+    },
+    {
+      "archive_path": "server.mjs",
+      "repository_path": "src/server.mjs",
+      "size": 1010,
+      "sha256": "fab55abea41133336265ba0004ecd48cde25ef8e746366670ca7a305d5272e57",
+      "repository_sha256": "fab55abea41133336265ba0004ecd48cde25ef8e746366670ca7a305d5272e57"
+    },
+    {
+      "archive_path": "demo.test.mjs",
+      "repository_path": "src/demo.test.mjs",
+      "size": 698,
+      "sha256": "cd10b12c23cf964f4b938780e2a96a65f403b8892c80413376044c306297bb29",
+      "repository_sha256": "cd10b12c23cf964f4b938780e2a96a65f403b8892c80413376044c306297bb29"
+    },
+    {
+      "archive_path": "README.md",
+      "repository_path": "src/README.upstream.md",
+      "size": 1424,
+      "sha256": "22b6ed737867b415366482aeb89f37f8d5c8dc3bd31b40e3a00f67005a03f090",
+      "repository_sha256": "22b6ed737867b415366482aeb89f37f8d5c8dc3bd31b40e3a00f67005a03f090"
+    }
+  ],
+  "normalization": "Repository text uses LF; sha256 is original archive bytes, repository_sha256 is normalized repository text."
+}
